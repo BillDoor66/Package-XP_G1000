@@ -1,3 +1,5 @@
+-- gn1sk.lua
+-- Script for X-Plane 12 Garmin G1000 PFD (g1000n1)
 SimVar("sim/GPS/g1000n1_softkey1")
 SimVar("sim/GPS/g1000n1_softkey2")
 SimVar("sim/GPS/g1000n1_softkey3")
