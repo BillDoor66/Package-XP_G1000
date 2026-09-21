@@ -1,5 +1,6 @@
 -- gn1sk.lua
 -- Script for X-Plane 12 Garmin G1000 PFD (g1000n1)
+-- This script is used to control the softkeys and NAV1 frequency of the G1000 PFD.
 SimVar("sim/GPS/g1000n1_softkey1")
 SimVar("sim/GPS/g1000n1_softkey2")
 SimVar("sim/GPS/g1000n1_softkey3")
